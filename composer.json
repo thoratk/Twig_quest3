@@ -1,0 +1,15 @@
+{
+    "name": "kishor/quest-twig",
+    "autoload": {
+        "psr-4": {
+            "Kishor\\QuestTwig\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kiran",
+            "email": "kiran.deshmukh111@gmail.com"
+        }
+    ],
+    "require": {}
+}
